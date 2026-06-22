@@ -1,0 +1,446 @@
+{
+    "Apple___Apple_scab": {
+        "crop": "Apple",
+        "disease": "Apple scab",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Apple___Black_rot": {
+        "crop": "Apple",
+        "disease": "Black rot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Apple___Cedar_apple_rust": {
+        "crop": "Apple",
+        "disease": "Cedar apple rust",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Apple___healthy": {
+        "crop": "Apple",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Blueberry___healthy": {
+        "crop": "Blueberry",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "crop": "Cherry_(including_sour)",
+        "disease": "Powdery mildew",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Cherry_(including_sour)___healthy": {
+        "crop": "Cherry_(including_sour)",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "crop": "Corn_(maize)",
+        "disease": "Cercospora leaf spot Gray leaf spot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Corn_(maize)___Common_rust_": {
+        "crop": "Corn_(maize)",
+        "disease": "Common rust ",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "crop": "Corn_(maize)",
+        "disease": "Northern Leaf Blight",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Corn_(maize)___healthy": {
+        "crop": "Corn_(maize)",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Grape___Black_rot": {
+        "crop": "Grape",
+        "disease": "Black rot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "crop": "Grape",
+        "disease": "Esca (Black Measles)",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "crop": "Grape",
+        "disease": "Leaf blight (Isariopsis Leaf Spot)",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Grape___healthy": {
+        "crop": "Grape",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "crop": "Orange",
+        "disease": "Haunglongbing (Citrus greening)",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Peach___Bacterial_spot": {
+        "crop": "Peach",
+        "disease": "Bacterial spot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Peach___healthy": {
+        "crop": "Peach",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "crop": "Pepper,_bell",
+        "disease": "Bacterial spot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Pepper,_bell___healthy": {
+        "crop": "Pepper,_bell",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Potato___Early_blight": {
+        "crop": "Potato",
+        "disease": "Early blight",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Potato___Late_blight": {
+        "crop": "Potato",
+        "disease": "Late blight",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Potato___healthy": {
+        "crop": "Potato",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Raspberry___healthy": {
+        "crop": "Raspberry",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Soybean___healthy": {
+        "crop": "Soybean",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Squash___Powdery_mildew": {
+        "crop": "Squash",
+        "disease": "Powdery mildew",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Strawberry___Leaf_scorch": {
+        "crop": "Strawberry",
+        "disease": "Leaf scorch",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Strawberry___healthy": {
+        "crop": "Strawberry",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    },
+    "Tomato___Bacterial_spot": {
+        "crop": "Tomato",
+        "disease": "Bacterial spot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Early_blight": {
+        "crop": "Tomato",
+        "disease": "Early blight",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Late_blight": {
+        "crop": "Tomato",
+        "disease": "Late blight",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Leaf_Mold": {
+        "crop": "Tomato",
+        "disease": "Leaf Mold",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "crop": "Tomato",
+        "disease": "Septoria leaf spot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "crop": "Tomato",
+        "disease": "Spider mites Two-spotted spider mite",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Target_Spot": {
+        "crop": "Tomato",
+        "disease": "Target Spot",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "crop": "Tomato",
+        "disease": "Tomato Yellow Leaf Curl Virus",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "crop": "Tomato",
+        "disease": "Tomato mosaic virus",
+        "status": "Unhealthy",
+        "remedy": [
+            "Remove infected leaves",
+            "Use recommended fungicide",
+            "Maintain proper field hygiene",
+            "Avoid excess moisture",
+            "Consult local agriculture expert if disease spreads"
+        ]
+    },
+    "Tomato___healthy": {
+        "crop": "Tomato",
+        "disease": "healthy",
+        "status": "Healthy",
+        "remedy": [
+            "Crop is healthy",
+            "Continue regular monitoring",
+            "Maintain proper irrigation",
+            "Follow recommended fertilization practices"
+        ]
+    }
+}
